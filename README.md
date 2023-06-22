@@ -6,9 +6,9 @@ TECHARDASO platformunda teknolojik aletlerin satışı yapılmaktadır. bilgisay
 .NET SDK, geliştiricilerin .NET uygulamaları ve kitaplıkları oluşturmasına olanak sağlayan bir kitaplık ve araç kümesidir. Uygulamaları derlemek ve çalıştırmak için kullanılan aşağıdaki bileşenleri içerir:
 
 
-1 .net clı
-2. .net çalışma zamanı ve kitaplıklar
-3. sürü dotnet
+1. .net clı
+1. .net çalışma zamanı ve kitaplıklar
+1. sürü dotnet
 .Net  Projesini çalıştırmak için dotnet sdk yı indirin. 
 .Net SDK indirmek için : [sdk](https://dotnet.microsoft.com/en-us/download)
 
@@ -19,5 +19,5 @@ dotnet run uygulamanızı tek bir komutla kaynak kodundan çalıştırmak için 
 
 ## Proje Dökümantasyonu
 
-Proje Postman kullanılarak test edilmiş ve Postman üzerinden dökümantasyon haline getirilmiştir.
-Proje dökümantasyonuna bu link üzerinden erişebilirsiniz : [Proje Dökümantasyon](https://documenter.getpostman.com/view/18639016/2s93sgXqaQ).
+1.Proje Postman kullanılarak test edilmiş ve Postman üzerinden dökümantasyon haline getirilmiştir.
+1.Proje dökümantasyonuna bu link üzerinden erişebilirsiniz : [Proje Dökümantasyon](https://documenter.getpostman.com/view/18639016/2s93sgXqaQ).
