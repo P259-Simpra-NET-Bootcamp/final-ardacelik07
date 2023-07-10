@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/EBv50WFu)
 # TECHARDASO
 TECHARDASO platformunda teknolojik aletlerin satışı yapılmaktadır. bilgisayarlar telefonlar televizyonlar ve aklınıza gelebilicek her türlü teknolojik aletleri tek bir tık ile satın alabilirsiniz.Ayrıca hediye çekleri ve her üründen belli tutarda puan kazanarak bir sonraki siparişlerinizde kullanabilirsiniz. Proje .Net ile yazılmış bir Api projesidir. Frontend bulunmamaktadır.
 
